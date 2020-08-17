@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://maque.GitHub.io</id>
     <title>麻雀sever</title>
-    <updated>2020-08-17T03:08:56.841Z</updated>
+    <updated>2020-08-17T03:20:13.432Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://maque.GitHub.io"/>
     <link rel="self" href="https://maque.GitHub.io/atom.xml"/>
-    <subtitle>WDNMD</subtitle>
+    <subtitle>阿巴阿巴</subtitle>
     <logo>https://maque.GitHub.io/images/avatar.png</logo>
     <icon>https://maque.GitHub.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 麻雀sever</rights>
