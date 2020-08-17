@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://maque.GitHub.io</id>
+    <id>https://maque-sever.github.io</id>
     <title>麻雀sever</title>
-    <updated>2020-08-17T03:28:52.527Z</updated>
+    <updated>2020-08-17T03:38:53.347Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://maque.GitHub.io"/>
-    <link rel="self" href="https://maque.GitHub.io/atom.xml"/>
+    <link rel="alternate" href="https://maque-sever.github.io"/>
+    <link rel="self" href="https://maque-sever.github.io/atom.xml"/>
     <subtitle>阿巴阿巴</subtitle>
-    <logo>https://maque.GitHub.io/images/avatar.png</logo>
-    <icon>https://maque.GitHub.io/favicon.ico</icon>
+    <logo>https://maque-sever.github.io/images/avatar.png</logo>
+    <icon>https://maque-sever.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 麻雀sever</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://maque.GitHub.io/post/hello-gridea/</id>
-        <link href="https://maque.GitHub.io/post/hello-gridea/">
+        <id>https://maque-sever.github.io/post/hello-gridea/</id>
+        <link href="https://maque-sever.github.io/post/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
